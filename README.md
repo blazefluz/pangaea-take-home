@@ -12,7 +12,7 @@ should be forwarded to all subscriber endpoints.
 - ```node ./demoservers``` to start demo server
 - ```./start-server.sh``` to run test
 
-## Example
+## Examples
 - create a topic
    ```
        **url**
